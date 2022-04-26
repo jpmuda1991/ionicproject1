@@ -53,7 +53,7 @@
         </ion-content>
         <ion-footer collapse="fade">
             <ion-toolbar class="new-background-color">
-                <ion-title>&#169; Votrem Nom</ion-title>
+                <ion-title>&#169; Philippe Mudaheranwa</ion-title>
             </ion-toolbar>
         </ion-footer>
     </ion-page>
